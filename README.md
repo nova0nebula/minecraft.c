@@ -2,7 +2,7 @@
 
 A simple 3D raycasting demo inspired by Minecraft, rendered in the terminal using ASCII characters and color codes.
 
-![Gameplay Screenshot](source/readme_image.png) 
+![Gameplay Screenshot](readme_image.png) 
 
 ## Prerequisites
 
